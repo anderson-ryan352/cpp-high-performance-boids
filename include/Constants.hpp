@@ -9,7 +9,7 @@ namespace Config
     inline constexpr int FPS_LIMIT = 60;
 
     // Simulation Settings
-    inline constexpr int BOID_COUNT = 5000;
+    inline constexpr int BOID_COUNT = 10000;
     inline constexpr int QUADTREE_CAPACITY = 64;
 
     // Boid Physics
